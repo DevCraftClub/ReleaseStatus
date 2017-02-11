@@ -1,0 +1,31 @@
+.release {
+	width: 100%;
+    overflow: hidden;
+}
+.release img {
+    float: left;
+    width: 100%;
+    max-width: 95px;
+}
+.release .info {
+    text-align: left;
+    padding-left: 65px;
+}
+.release .info h3 {
+	font-size: 16px;
+    margin: 0;
+	padding-left: 40px;
+    text-transform: uppercase;
+    width: 1000px;
+    font-weight: bold;
+    text-align: left;
+}
+.release .info ul {
+	list-style: none;
+}
+.release .info ul li {
+	
+}
+.release a {
+	color:white;
+}
